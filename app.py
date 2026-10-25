@@ -151,7 +151,7 @@ st.markdown(f"""
 <div style='background: linear-gradient(90deg, #1e3a5f, #2563eb, #60a5fa); padding: 14px 20px; border-radius: 12px; text-align: center; margin-bottom:14px; display:flex; align-items:center; justify-content:center; box-shadow: 0 4px 12px rgba(0,0,0,0.12);'>
     {logo_html}
     <div>
-        <span style='font-size:26px; color:#ffffff; font-weight: bold; letter-spacing: 1.5px;'>Market Vision AI</span>
+        <span style='font-size:26px; color:#ffffff; font-weight: bold; letter-spacing: 1.5px;'>Market Vision AI - Hybrid</span>
             </div>
 </div>
 """, unsafe_allow_html=True)
