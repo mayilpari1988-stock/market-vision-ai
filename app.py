@@ -23,7 +23,7 @@ try:
 except:
     TORCH_AVAILABLE = False
 
-st.set_page_config(layout="wide", page_title="Market Vision AI - Hybrid")
+st.set_page_config(layout="wide", page_title="Market Vision AI")
 
 st.markdown("""
 <style>
