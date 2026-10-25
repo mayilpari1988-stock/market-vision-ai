@@ -454,4 +454,4 @@ if st.session_state.dff is not None:
         )
         st.plotly_chart(fig, use_container_width=True)
 else:
-    st.info("Loading...")
+    st.info("Clicking...")
